@@ -12,12 +12,10 @@ Subtítulos também.
 2. Eu também
 3. Me too
 
-...
-
+```
 #include <stdio.h>
-int main() {
+int main(){
 	printf("Sou um código exitente!\n");
 	return 0;
 }
-
-...
+```
