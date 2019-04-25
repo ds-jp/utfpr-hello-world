@@ -14,6 +14,10 @@ Subtítulos também.
 
 ...
 
-printf("Sou um código exitente!\n");
+#include <stdio.h>
+int main() {
+	printf("Sou um código exitente!\n");
+	return 0;
+}
 
 ...
