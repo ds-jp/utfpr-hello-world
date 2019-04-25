@@ -14,6 +14,6 @@ Subtítulos também.
 
 ...
 
-printf("Sou um código exitente!\n")
+printf("Sou um código exitente!\n");
 
 ...
